@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "nodemon index.js"
   },
-  "author": "Leevesh Kamboj",
+  "author": "Chayandeep Chaulia",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",

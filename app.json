@@ -1,6 +1,6 @@
 {
     "name": "UrlShortener",
-    "logo": "https://raw.githubusercontent.com/leeveshkamboj/UrlShortener/master/public/favicon.ico",
+    "logo": "https://raw.githubusercontent.com/PARADOX0001/Intern_Project/main/public/favicon.ico?token=GHSAT0AAAAAACEDI5PCBPPL7WZHRCHPJYR2ZEQYFDA",
     "description": "Url Shortener made in Node JS with MongoDB Database.",
     "keywords": [
       "Node JS",
@@ -8,7 +8,7 @@
       "Url Shortner",
       "Express Server"
     ],
-    "repository": "https://github.com/leeveshkamboj/UrlShortener",
+    "repository": "https://github.com/PARADOX0001/Intern_Project",
     "env": {
       "DB_URL": {
         "description": "Your Mongodb Connection Url. Get it from https://www.mongodb.com/cloud/atlas/register",

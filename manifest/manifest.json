@@ -1,0 +1,14 @@
+{
+    "name": "Shorte",
+    "version": "1.0",
+    "description": "This is an extension that shorten your long url",
+    "manifest_version": 2,
+    "author": "Chayandeep Chaulia",
+    "browser_action": {
+        "default_popup": "popup.html", 
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    }
+}
